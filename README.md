@@ -1,7 +1,9 @@
-# HOMFLY polynomial calculator for rational knots
+# HOMFLY polynomial calculator for 2-bridge knots
 
 This application based on Duzhin-Shkolnikov formula for value of HOMFLY polynomial for rational knots and links (http://arxiv.org/pdf/1009.1800.pdf). 
 
-Required packages: PySide and matplotlib.
+Require Python 3.x and PySide
 
-To run the program execute the file "run.bat" on Windows. On Linux and MaxOS X run HOMFLY_UI.py.
+![Screen with the program window](images/screen.png?raw=true)
+
+To run the program on Window execute the file "run.bat". Or you can manually execute HOMFLY_UI.py.
