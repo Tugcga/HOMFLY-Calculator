@@ -1,0 +1,1 @@
+python "%~dp0\HOMFLY_UI.py"
